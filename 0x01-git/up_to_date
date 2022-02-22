@@ -1,1 +1,1 @@
-echo My first readus > README.md
+echo "My first readus" > README.md
